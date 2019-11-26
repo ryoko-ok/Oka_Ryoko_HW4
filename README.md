@@ -5,7 +5,7 @@ This is from Olympic data for 90 years (1924 to 2014). Pick up only Gold medal c
 ## Steps:
 1. Select only Gold medal from the “Olympics Winter”
 2. Separate each year
-3. Make map graphs from the data which create from above steps
+3. Make map graphs from the data which created from above steps
 
 
 ## Considerations:
