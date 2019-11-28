@@ -1,6 +1,5 @@
 # The Number of Japanese Medals in Winter Olympics
 
-
 This is the number of medals in Japan from the Winter Olympic history for 90-years from 1924 to 2014. However, the first medal for Japan was Chiharu Igaya got a silver medal of Skiing in 1956. After this silver medal, Japan could not get any medals for 16 years. Winter Olympic Sports are tough for Japanese athletes. In fact, Japan has gotten medals in only two sports which are skiing and skating until 2014. 
 Compare to Skiing and Skating, Skiing got more medals especially team play. 
 Look at the number of medals of men closely, total 50 medals for men, 22 medals are for team sports.
@@ -20,3 +19,9 @@ As for women, Seiko Hashimoto was the first medalist which was a Bronze medal in
 3. Men: Which year was the first medal for men, which sports is good at for Japanese men’s athletes
 4. Which year was the first medal for women, which sports is good at for Japanese women’s athletes
 5. What is the difference between men and women, Skiing and Skating
+
+
+### Author
+Ryoko Oka
+
+[This is the google drive link](https://drive.google.com/file/d/1MJ4OaVdTC4Hjjj-iLgFiSSdwhR70GR_v/view?usp=sharing)
