@@ -20,3 +20,5 @@ As for women, Seiko Hashimoto was the first medalist which was a Bronze medal in
 3. Men: Which year was the first medal for men, which sports is good at for Japanese men’s athletes
 4. Which year was the first medal for women, which sports is good at for Japanese women’s athletes
 5. What is the difference between men and women, Skiing and Skating
+
+[This is the google drive link](https://drive.google.com/file/d/1MJ4OaVdTC4Hjjj-iLgFiSSdwhR70GR_v/view?usp=sharing)
