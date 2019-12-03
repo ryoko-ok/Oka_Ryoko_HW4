@@ -1,0 +1,64 @@
+Year,City,Sport,Athlete,Country,Gender,Event,Medal
+1956,Cortina d'Ampezzo,Skiing,"IGAYA, Chiharu",JPN,Men,Slalom,Silver
+1972,Sapporo,Skiing,"AOCHI, Seiji",JPN,Men,K90 Individual (70M),Bronze
+1972,Sapporo,Skiing,"KASAYA, Yukio",JPN,Men,K90 Individual (70M),Gold
+1972,Sapporo,Skiing,"KONNO, Akitsugu",JPN,Men,K90 Individual (70M),Silver
+1980,Lake Placid,Skiing,"YAGI, Hirokazu",JPN,Men,K90 Individual (70M),Silver
+1984,Sarajevo,Skating,"KITAZAWA, Yoshihiro",JPN,Men,500M,Silver
+1988,Calgary,Skating,"KUROIWA, Akira",JPN,Men,500M,Bronze
+1992,Albertville,Skating,"ITO, Midori",JPN,Women,Individual,Silver
+1992,Albertville,Skating,"AKASAKA, Yuichi",JPN,Men,5000M Relay,Bronze
+1992,Albertville,Skating,"ISHIHARA, Tatsuyoshi",JPN,Men,5000M Relay,Bronze
+1992,Albertville,Skating,"KAWAI, Toshinobu",JPN,Men,5000M Relay,Bronze
+1992,Albertville,Skating,"KAWASAKI, Tsutomu",JPN,Men,5000M Relay,Bronze
+1992,Albertville,Skating,"MIYABE, Yukinori",JPN,Men,1000M,Bronze
+1992,Albertville,Skating,"HASHIMOTO, Seiko",JPN,Women,1500M,Bronze
+1992,Albertville,Skating,"INOUE, Junichi",JPN,Men,500M,Bronze
+1992,Albertville,Skating,"KUROIWA, Toshiyuki",JPN,Men,500M,Silver
+1992,Albertville,Skiing,"KONO, Takanori",JPN,Men,Team,Gold
+1992,Albertville,Skiing,"MIKATA, Reiichi",JPN,Men,Team,Gold
+1992,Albertville,Skiing,"OGIWARA, Kenji",JPN,Men,Team,Gold
+1994,Lillehammer,Skating,"YAMAMOTO, Hiromi",JPN,Women,5000M,Bronze
+1994,Lillehammer,Skating,"HORII, Manabu",JPN,Men,500M,Bronze
+1994,Lillehammer,Skiing,"KONO, Takanori",JPN,Men,Individual,Silver
+1994,Lillehammer,Skiing,"ABE, Masashi",JPN,Men,Team,Gold
+1994,Lillehammer,Skiing,"KONO, Takanori",JPN,Men,Team,Gold
+1994,Lillehammer,Skiing,"OGIWARA, Kenji",JPN,Men,Team,Gold
+1994,Lillehammer,Skiing,"HARADA, Masahiko",JPN,Men,K120 Team (90M),Silver
+1994,Lillehammer,Skiing,"KASAI, Noriaki",JPN,Men,K120 Team (90M),Silver
+1994,Lillehammer,Skiing,"NISHIKATA, Jinya",JPN,Men,K120 Team (90M),Silver
+1994,Lillehammer,Skiing,"OKABE, Takanobu",JPN,Men,K120 Team (90M),Silver
+1998,Nagano,Skating,"UEMATSU, Hitoshi",JPN,Men,500M,Bronze
+1998,Nagano,Skating,"NISHITANI, Takafumi",JPN,Men,500M,Gold
+1998,Nagano,Skating,"SHIMIZU, Hiroyasu",JPN,Men,1000M,Bronze
+1998,Nagano,Skating,"SHIMIZU, Hiroyasu",JPN,Men,500M,Gold
+1998,Nagano,Skating,"OKAZAKI, Tomomi",JPN,Women,500M,Bronze
+1998,Nagano,Skiing,"SATOYA, Tae",JPN,Women,Moguls,Gold
+1998,Nagano,Skiing,"HARADA, Masahiko",JPN,Men,K120 Individual (90M),Bronze
+1998,Nagano,Skiing,"FUNAKI, Kazuyoshi",JPN,Men,K120 Individual (90M),Gold
+1998,Nagano,Skiing,"FUNAKI, Kazuyoshi",JPN,Men,K120 Team (90M),Gold
+1998,Nagano,Skiing,"HARADA, Masahiko",JPN,Men,K120 Team (90M),Gold
+1998,Nagano,Skiing,"OKABE, Takanobu",JPN,Men,K120 Team (90M),Gold
+1998,Nagano,Skiing,"SAITO, Hiroya",JPN,Men,K120 Team (90M),Gold
+1998,Nagano,Skiing,"FUNAKI, Kazuyoshi",JPN,Men,K90 Individual (70M),Silver
+2002,Salt Lake City,Skating,"SHIMIZU, Hiroyasu",JPN,Men,500M,Silver
+2002,Salt Lake City,Skiing,"SATOYA, Tae",JPN,Women,Moguls,Bronze
+2006,Turin,Skating,"ARAKAWA, Shizuka",JPN,Women,Individual,Gold
+2010,Vancouver,Skating,"TAKAHASHI, Daisuke",JPN,Men,Individual,Bronze
+2010,Vancouver,Skating,"ASADA, Mao",JPN,Women,Individual,Silver
+2010,Vancouver,Skating,"KATO, Joji",JPN,Men,500M,Bronze
+2010,Vancouver,Skating,"NAGASHIMA, Keiichiro",JPN,Men,500M,Silver
+2010,Vancouver,Skating,"HOZUMI, Masako",JPN,Women,Team Pursuit,Silver
+2010,Vancouver,Skating,"KODAIRA, Nao",JPN,Women,Team Pursuit,Silver
+2010,Vancouver,Skating,"TABATA, Maki",JPN,Women,Team Pursuit,Silver
+2014,Sochi,Skating,"HANYU, Yuzuru",JPN,Men,Individual,Gold
+2014,Sochi,Skiing,"ONOZUKA, Ayana",JPN,Women,Ski Halfpipe,Bronze
+2014,Sochi,Skiing,"WATABE, Akito",JPN,Men,Ind. K90 (70M),Silver
+2014,Sochi,Skiing,"KASAI, Noriaki",JPN,Men,Large Hill,Silver
+2014,Sochi,Skiing,"ITO, Daiki",JPN,Men,Teams,Bronze
+2014,Sochi,Skiing,"KASAI, Noriaki",JPN,Men,Teams,Bronze
+2014,Sochi,Skiing,"SHIMIZU, Reruhi",JPN,Men,Teams,Bronze
+2014,Sochi,Skiing,"TAKEUCHI, Taku",JPN,Men,Teams,Bronze
+2014,Sochi,Skiing,"HIRANO, Ayumu",JPN,Men,Half-Pipe,Silver
+2014,Sochi,Skiing,"HIRAOKA, Taku",JPN,Men,Half-Pipe,Bronze
+2014,Sochi,Skiing,"TAKEUCHI, Tomoka",JPN,Women,Giant Parall.S.,Silver
