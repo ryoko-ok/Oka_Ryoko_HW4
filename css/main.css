@@ -1,5 +1,13 @@
+body {
+	text-align: center;
+}
+
+p {
+	font-size: 20px;
+}
 
 .container {
+	width: 980px;
 	margin: 0 auto;
 	background-color: #fff;
 	display: flex;
@@ -12,5 +20,4 @@
 	border-radius: 5px;
 	padding: 20px;
 	margin: 10px;
-	width: 100px;
 }
