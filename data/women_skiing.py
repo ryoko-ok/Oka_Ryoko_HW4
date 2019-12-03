@@ -1,21 +1,18 @@
-import numpy as np
-import pandas as pd
 import matplotlib.pyplot as plt
 
 years = [1956, 1960, 1964, 1968, 1972, 1976, 1980, 1984, 1988, 1992, 1994, 1998, 2002, 2006, 2010, 2014]
-bronzes = np.array([0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1])
-silvers = np.array([0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1])
-golds = np.array([0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0])
-ind = [x for x, _ in enumerate(years)]
+pops1 = [0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1]
+pops2 = [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1]
+pops3 = [0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0]
 
-plt.bar(ind, golds, width=0.6, label='golds', color='gold', bottom=silvers+bronzes)
-plt.bar(ind, silvers, width=0.6, label='silvers', color='silver', bottom=bronzes)
-plt.bar(ind, bronzes, width=0.6, label='bronzes', color='#CD7F32')
- 
-plt.xticks(ind, years)
-plt.ylabel("Medals")
-plt.xlabel("Years")
-plt.legend(loc="upper right")
-plt.title("Japanese Olympic Medals (Women/Skiing")
+plt.plot(years, pops1, color='#CD7F32', linewidth=3.0)
+plt.plot(years, pops2, color= 'silver', linewidth=3.0)
+plt.plot(years, pops3, color='gold', linewidth=3.0)
+
+plt.ylabel("Number of Medals")
+plt.xlabel("Olympic Years")
+plt.title("Japanese Skiing Olympic Medals (Men)", pad=20)
+
+# show the chart
+plt.legend()
 plt.show()
- 

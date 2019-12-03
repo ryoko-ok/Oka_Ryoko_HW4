@@ -16,6 +16,6 @@ plt.xticks(ind, years)
 plt.ylabel("Medals")
 plt.xlabel("Years")
 plt.legend(loc="upper right")
-plt.title("Japanese Olympic Medals (Men/Skating")
+plt.title("Japanese Olympic Medals (Men/Skating)")
 plt.show()
  
